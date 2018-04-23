@@ -8,4 +8,4 @@
 
 Упражнение №8
 
-Отчет: 
+Отчет: http://rpubs.com/ALeX96736/math_model_dz8
